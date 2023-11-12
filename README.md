@@ -6,7 +6,7 @@
 3. [Contact Us](#3-contact-us)
 
 ## 1. Submissions
-1.1 Participants are required to submit their selections before the commencement of each Grand Prix.
+1.1 Participants are required to submit their selections before the commencement of each Grand Prix.<br>
 1.2 Changes to selections can be made at any time leading up to the start of the race.
 
 ## 2. Scoring Format
