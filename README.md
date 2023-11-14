@@ -27,8 +27,9 @@
 
 Test
 
-> [!Note] This is a test
-Note
+[!Note] 
+>This is a test
+>Note
 Note
 Note
 Note
