@@ -28,7 +28,7 @@
 Test
 
 > [!Note]
-> Notes Me Fool
+> Notes Me Fool!
 
 > [!Example]
-> Example Foo
+> Example Foo!
