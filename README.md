@@ -27,14 +27,5 @@
 
 Test
 
-[!Note] 
->This is a test
->Note
-Note
-Note
-Note
-
-> [!Example] Example #1
-> Example
-> Example
-> Example
+> [!Note]
+> Notes Me Fool
