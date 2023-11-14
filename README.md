@@ -4,9 +4,9 @@
   
 ## Table of Contents
 
-1. [Submissions](#1-submissions)
+[Submissions](#1-submissions)
 
-2. [Scoring Format](#2-scoring-format)
+[Scoring Format](#2-scoring-format)
 
 
 ## Submissions
