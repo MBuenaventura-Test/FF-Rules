@@ -25,6 +25,6 @@
 
 2) A single driver chosen for multiple podium positions will contribute only once towards your overall points.
 
-[!NOTE]
+> [!NOTE]
 > Find the docs [here](http://example.com/).
 > Test
