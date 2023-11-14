@@ -2,16 +2,12 @@
 #  _2023-2024 Formula Fantasy Rulebook_
 
   
-
 ## Table of Contents
 
 1. [Submissions](#1-submissions)
 
 2. [Scoring Format](#2-scoring-format)
 
-3. [Contact Us](#3-contact-us)
-
-  
 
 ## Submissions
 
@@ -20,7 +16,6 @@
 2) Changes to selections can be made at any time leading up to the start of the race.
 
   
-
 ## Scoring Format
 
 1) For each Grand Prix weekend, participants must select the drivers for 1st, 2nd, and 3rd place. Points are awarded as follows:
@@ -29,8 +24,3 @@
 	- Ten (10) points are awarded for correctly predicting the 3rd place driver.
 
 2) A single driver chosen for multiple podium positions will contribute only once towards your overall points.
-
-
-## 3. Contact Us
-
-For inquiries or assistance, please feel free to contact us at [help@formulafantasy.net](mailto:help@formulafantasy.net).
