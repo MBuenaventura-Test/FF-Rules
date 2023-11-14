@@ -24,3 +24,10 @@
 	- Ten (10) points are awarded for correctly predicting the 3rd place driver.
 
 2) A single driver chosen for multiple podium positions will contribute only once towards your overall points.
+
+<div class="warning">
+
+**NOTE:**
+Find the docs [here](http://example.com/).
+
+</div>
