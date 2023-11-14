@@ -27,4 +27,6 @@
 
 > [!NOTE]
 > Find the docs [here](http://example.com/).
-> Test
+
+> [!EXAMPLE]
+> Example
