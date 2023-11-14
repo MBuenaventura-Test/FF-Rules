@@ -28,7 +28,6 @@
 Test
 
 > [!Note]
-> Notes Me Fool!
+> Text
 
-> [!Example]
-> Example Foo!
+[!Example]
