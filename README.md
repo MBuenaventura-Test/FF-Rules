@@ -29,3 +29,6 @@ Test
 
 > [!Note]
 > Notes Me Fool
+
+> [!Example]
+> Example Foo
