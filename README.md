@@ -4,9 +4,9 @@
   
 ## Table of Contents
 
-[Submissions](#1-submissions)
+[Submissions](#submissions)
 
-[Scoring Format](#2-scoring-format)
+[Scoring Format](#scoring-format)
 
 
 ## Submissions
@@ -24,3 +24,6 @@
 	- Ten (10) points are awarded for correctly predicting the 3rd place driver.
 
 2) A single driver chosen for multiple podium positions will contribute only once towards your overall points.
+
+> [!NOTE]
+> This is a test.
