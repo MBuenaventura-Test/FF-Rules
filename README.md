@@ -17,6 +17,8 @@
 
 2) Changes to selections can be made at any time leading up to the start of the race.
 
+> [!NOTE]
+> Find the docs [here](http://example.com/).
   
 ## Scoring Format
 
