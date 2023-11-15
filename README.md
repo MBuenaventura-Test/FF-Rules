@@ -23,25 +23,13 @@
 		- Ten (15) points are awarded for correctly picking the 2nd place driver.
 		- Ten (15) points are awarded for correctly picking the 3rd place driver.
 		- Five (5) points are awarded for picking a driver that places either in 1st, 2nd, or 3rd place but not in the correct finishing position.
-	- Selecting the same driver for multiple podiums will only yield points once, based on the highest points awarded for that driver.
 
 > [!NOTE]
-<br>
-> **Example:**
->
-> You selected:
-> - **P1** - Max Verstappen
-> - **P2** - Charles Leclerc
-> - **P3** - Lewis Hamilton
->
->Race Results:
-> - **P1** - Max Verstappen
-> - **P2** - Charles Leclerc
-> - **P3** - Lewis Hamilton
+> Selecting the same driver for multiple podiums will only yield points once, based on the highest points awarded for that driver.
 
-1) For each Grand Prix weekend, participants must select the drivers for 1st, 2nd, and 3rd place. Points are awarded as follows:
-	- Fifteen (15) points are awarded for correctly predicting the 1st place driver.
-	- Ten (10) points are awarded for correctly predicting the 2nd place driver.
-	- Ten (10) points are awarded for correctly predicting the 3rd place driver.
+2. Bonus Questions
+	- In addition to selecting three (3) drivers as your podium picks, each Grand Prix weekend there will be additional questions. 
+	- Each bonus question will be worth a total of five (5) points, unless otherwise stated.
 
-2) A single driver chosen for multiple podium positions will contribute only once towards your overall points.
+### 3. Help
+1. If you are in need of assistance or have general questions, please contact us at help@formulafantasy.net
