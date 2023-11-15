@@ -4,9 +4,11 @@
   
 ### Contents
 
-1. [Submissions](#submissions)
+1. [Submissions](#1-submissions)
 
-2. [Scoring Format](#scoring-format)
+2. [Scoring Format](#2-scoring-format)
+
+3. [Help](#3-help)
 
 
 ### 1. Submissions
