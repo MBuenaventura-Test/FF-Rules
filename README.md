@@ -13,6 +13,9 @@
 
 ## Submissions
 
+> [!NOTE]
+> Find the docs [here](http://example.com/).
+
 1) Participants are required to submit their selections before the commencement of each Grand Prix.<br>
 
 2) Changes to selections can be made at any time leading up to the start of the race.
