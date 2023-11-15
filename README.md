@@ -17,9 +17,6 @@
 
 2) Changes to selections can be made at any time leading up to the start of the race.
 
-> [!NOTE]
-> Find the docs [here](http://example.com/).
-  
 ## Scoring Format
 
 1) For each Grand Prix weekend, participants must select the drivers for 1st, 2nd, and 3rd place. Points are awarded as follows:
