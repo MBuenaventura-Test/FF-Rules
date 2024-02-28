@@ -1,36 +1,61 @@
-##  _2023-2024 Formula Fantasy Rulebook_
+# Table of Contents
 
-  
-### Contents
+1. [Section 1 – Driver Selection](#section-1--driver-selection)
+    - [Groups Format](#groups-format-)
+    - [Example (Group A)](#example-group-a)
+    - [Driver Performance Points](#driver-performance-points-)
+    
+2. [Section 2 – Constructor Selection](#section-2--constructor-selection)
 
-1. [Submissions](#1-submissions)
+3. [Section 3 – Bonus Questions](#section-3--bonus-questions)
 
-2. [Scoring Format](#2-scoring-format)
+# Section 1 – Driver Selection
 
-3. [Help](#3-help)
+Players will choose a driver from each group, determined by their qualifying position. The best overall pick will receive a total of five (5) points. After the race, each driver within their respective group will be ranked against all other drivers in the same group. One (1) point will be deducted for each position lost according to the final position within that specific group. You cannot incur negative points.
+
+## Groups Format –
+- Group A: P1 – P5
+- Group B: P6 – P10
+- Group C: P11 – P20
+
+### Example (Group A):
+| Driver          | Qualifying Position | Race Result | Group Points Results |
+|-----------------|---------------------|-------------|----------------------|
+| Charles Leclerc | P1                  | P7          | 3                    |
+| Sergio Perez    | P2                  | P2          | 4                    |
+| Max Verstappen  | P3                  | P1          | 5                    |
+| Carlos Sainz    | P4                  | P10         | 2                    |
+| Lewis Hamilton  | P5                  | P8          | 1                    |
+
+- If your choice was Charles Leclerc, who qualified in P1 but ultimately finished in P7, you would still accumulate a total of three (3) points. This is because each driver is evaluated solely within its group, based on the group's race results, Charles Leclerc finished in 3rd place for Group 1.
+- Selecting Max Verstappen, who qualified in P3 but finished in P1, would earn you a net total of five (5) points, given that he secured the top position in that group.
+- Drivers concluding the race in positions P16 to P20 will result in zero (0) points as you cannot incur negative points.
+
+## Driver Performance Points –
+
+Each driver chosen from each group will be eligible to get points based on driver performance with the following stats. These points will automatically be calculated.
+
+- +1 Fastest Lap
+- +1 Driver of the Day
+- +.25% For Each Position Gained (Based on entire grid)
+- -.25% For Each Position Lost (Based on entire grid)
+- -1 Race Penalty
+- -1 Each Lap Down from Race Leader (Excludes DNF)
 
 
-### 1. Submissions
+# Section 2 – Constructor Selection
 
-#### Deadlines
-- Questions must be submitted prior to the start of the race.
-- You may modify and resubmit your questions as often as desired until the start of the race.
+Players will select a single team as their constructor pick for each race. The chosen team will be eligible for bonus points determined by its performance.
 
-### 2. Scoring Format
+- +1 Both Drivers Finish Race
+- +1 Double Podium
+- +1 Fastest Pit Stop
+- -1 Both Drivers DNF
+- -1 Slowest Pit Stop
+- -1 Causing Teammate to DNF
+- +1/-1 Positions Gained or Lost Based on Team Average
+ 
 
-#### Podium Picks
-- For every Grand Prix weekend, you will select your podium picks for drivers finishing in 1st, 2nd, and 3rd place.
-	- Fifteen (15) points are awarded for correctly picking the 1st place driver.
-	- Ten (10) points are awarded for correctly picking the 2nd place driver.
-	- Ten (10) points are awarded for correctly picking the 3rd place driver.
-	- Five (5) points are awarded for picking a driver that places either in 1st, 2nd, or 3rd place but not in the correct finishing position.
+# Section 3 – Bonus Questions
 
-> [!NOTE]
-> Selecting the same driver for multiple podiums will only yield points once, based on the highest points awarded for that driver.
-
-- Bonus Questions
-	- In addition to selecting three (3) drivers as your podium picks, each Grand Prix weekend there will be additional questions. 
-	- Each bonus question will be worth a total of five (5) points, unless otherwise stated.
-
-### 3. Help
-- If you are in need of assistance or have general questions, please contact us at help@formulafantasy.net
+One (1) to three (3) random bonus questions will be generated, and players can choose from them. Correct answers can earn anywhere from one (1) to ten (10) points each.
