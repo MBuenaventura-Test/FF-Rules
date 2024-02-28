@@ -13,7 +13,7 @@
 
 Players will choose a driver from each group, determined by their qualifying position. The best overall pick will receive a total of five (5) points. After the race, each driver within their respective group will be ranked against all other drivers in the same group. One (1) point will be deducted for each position lost according to the final position within that specific group. You cannot incur negative points.
 
-## Groups Format –
+## Groups Format 
 - Group A: P1 – P5
 - Group B: P6 – P10
 - Group C: P11 – P20
@@ -31,7 +31,7 @@ Players will choose a driver from each group, determined by their qualifying pos
 - Selecting Max Verstappen, who qualified in P3 but finished in P1, would earn you a net total of five (5) points, given that he secured the top position in that group.
 - Drivers concluding the race in positions P16 to P20 will result in zero (0) points as you cannot incur negative points.
 
-## Driver Performance Points –
+## Driver Performance Points 
 
 Each driver chosen from each group will be eligible to get points based on driver performance with the following stats. These points will automatically be calculated.
 
