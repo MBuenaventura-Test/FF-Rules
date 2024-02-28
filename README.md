@@ -18,7 +18,7 @@ Players will choose a driver from each group, determined by their qualifying pos
 - Group B: P6 – P10
 - Group C: P11 – P20
 
-### Example (Group A):
+## Example (Group A):
 | Driver          | Qualifying Position | Race Result | Group Points Results |
 |-----------------|---------------------|-------------|----------------------|
 | Charles Leclerc | P1                  | P7          | 3                    |
