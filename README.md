@@ -1,14 +1,3 @@
-# Table of Contents
-
-1. [Section 1 – Driver Selection](#section-1--driver-selection)
-    - [Groups Format](#groups-format)
-    - [Example (Group A)](#example-group-a)
-    - [Driver Performance Points](#driver-performance-points)
-    
-2. [Section 2 – Constructor Selection](#section-2--constructor-selection)
-
-3. [Section 3 – Bonus Questions](#section-3--bonus-questions)
-
 # Section 1 – Driver Selection
 
 Players will choose a driver from each group, determined by their qualifying position. The best overall pick will receive a total of five (5) points. After the race, each driver within their respective group will be ranked against all other drivers in the same group. One (1) point will be deducted for each position lost according to the final position within that specific group. You cannot incur negative points.
