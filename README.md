@@ -1,13 +1,13 @@
 # Table of Contents
 
-1. [Section 1 – Driver Selection](#section-1-driver-selection)
-    - [Groups Format](#groups-format-)
+1. [Section 1 – Driver Selection](#section-1--driver-selection)
+    - [Groups Format](#groups-format)
     - [Example (Group A)](#example-group-a)
-    - [Driver Performance Points](#driver-performance-points-)
+    - [Driver Performance Points](#driver-performance-points)
     
-2. [Section 2 – Constructor Selection](#section-2-constructor-selection)
+2. [Section 2 – Constructor Selection](#section-2--constructor-selection)
 
-3. [Section 3 – Bonus Questions](#section-3-bonus-questions)
+3. [Section 3 – Bonus Questions](#section-3--bonus-questions)
 
 # Section 1 – Driver Selection
 
