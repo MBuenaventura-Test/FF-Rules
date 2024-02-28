@@ -1,4 +1,4 @@
-# Section 1 – Driver Selection
+1) Driver Selection
 
 Players will choose a driver from each group, determined by their qualifying position. The best overall pick will receive a total of five (5) points. After the race, each driver within their respective group will be ranked against all other drivers in the same group. One (1) point will be deducted for each position lost according to the final position within that specific group. You cannot incur negative points.
 
@@ -32,7 +32,7 @@ Each driver chosen from each group will be eligible to get points based on drive
 - -1 Each Lap Down from Race Leader (Excludes DNF)
 
 
-# Section 2 – Constructor Selection
+2) Constructor Selection
 
 Players will select a single team as their constructor pick for each race. The chosen team will be eligible for bonus points determined by its performance.
 
@@ -45,6 +45,6 @@ Players will select a single team as their constructor pick for each race. The c
 - +1/-1 Positions Gained or Lost Based on Team Average
  
 
-# Section 3 – Bonus Questions
+3) Bonus Questions
 
 One (1) to three (3) random bonus questions will be generated, and players can choose from them. Correct answers can earn anywhere from one (1) to ten (10) points each.
