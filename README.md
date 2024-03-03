@@ -20,31 +20,33 @@ Players will choose a driver from each group, determined by their qualifying pos
 - Selecting Max Verstappen, who qualified in P3 but finished in P1, would earn you a net total of five (5) points, given that he secured the top position in that group.
 - Drivers concluding the race in positions P16 to P20 will result in zero (0) points as you cannot incur negative points.
 
-## Driver Performance Points 
+## Driver Pick Points 
 
-Each driver chosen from each group will be eligible to get points based on driver performance with the following stats. These points will automatically be calculated.
+Drivers selected from each group will earn points based on their performance and the final position of their group. The points will be automatically calculated using the following statistics.
 
-- +1 Fastest Lap
-- +1 Driver of the Day
-- +.25% For Each Position Gained (Based on entire grid)
-- -.25% For Each Position Lost (Based on entire grid)
-- -1 Race Penalty
-- -1 Each Lap Down from Race Leader (Excludes DNF)
+- Group Ranking:
+    - 1st in Group: +5 Points
+    - 2nd in Group: +4 Points
+    - 3rd in Group: +3 Points
+    - 4th in Group: +2 Points
+    - 5th in Group: +1 Points
+    - DNF/DNS: +0 Points
+- Fastest Lap: +1 Point
+- Driver of the Day: +1 Point
+- Net Place Change: +/- 0.5 Points
+    - DNF/DNS: +0 Points
+- Laps Completed: +0.1 Points
 
-
-# 2) Constructor Picks
+# 2) Constructor Pick Points
 
 Players will select a single team as their constructor pick for each race. The chosen team will be eligible for bonus points determined by its performance.
 
-- +1 Both Drivers Finish Race
-- +1 Double Podium
-- +1 Fastest Pit Stop
-- -1 Both Drivers DNF
-- -1 Slowest Pit Stop
-- -1 Causing Teammate to DNF
-- +1/-1 Positions Gained or Lost Based on Team Average
- 
+- Fastest Pit Stop: +1 Point
+- Team Combined Net Place Change: +/- 0.5 Points
+    - DNF/DNS: +0 Points
+- Each Pit Stop Performance: 5 Points - Pit Stop Duration
+    - Example: 5 Points - 2.33 (Pit Stop Duration) = +2.67 Points 
 
 # 3) Race Picks
 
-One (1) to three (3) random bonus questions will be generated, and players can choose from them. Correct answers can earn anywhere from one (1) to ten (10) points each.
+For each race weekend, players will answer one (1) to three (3) bonus questions. For every correct answer, they have the chance to earn between one (1) and ten (10) points.
