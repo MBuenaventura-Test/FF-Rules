@@ -53,16 +53,16 @@ Each driver pick receives points for how well they performed in the race.
 Players pick one constructor team.
 
 ## Points
-The constructor team recieves points for how well they perform in the race.
+The constructor team receives points for how well they perform in the race.
 
 -Pit Stop Points: 5 points - Pit stop duration difference from fastest pit. Only the team's top 2 pits are counted. No negative points. See examples below.
 
 ### Example Pit Stop Points
 In the following example, the fastest pit during the race was 19.8s by Team X.
 
-- Team X recieves 7.4 total pit stop points
-- Team Y recieves 8.6 total pit stop points
-- Team Z recieves 2.3 total pit stop points
+- Team X receives 7.4 total pit stop points
+- Team Y receives 8.6 total pit stop points
+- Team Z receives 2.3 total pit stop points
 
 | Constructor | Pit Stop Duration | Pit Stop Points |
 |-------------|-------------------|-----------------|
@@ -78,7 +78,7 @@ In the following example, the fastest pit during the race was 19.8s by Team X.
 
 
 # Race Picks
-Race picks vary for each round and are focused on news or  significant factors around the race weekend. Players pick from one to three bonus questions. 
+Race picks vary for each round and are focused on news or significant factors around the race weekend. Players pick from one to three bonus questions. 
 
 ## Points
 Correct race pick answers earn 5 points unless otherwise noted in the question description.
