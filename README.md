@@ -1,52 +1,84 @@
-# 1) Driver Picks
+# Objective
+This is a fun and casual Formula One fantasy league where you will be submitting picks for each race. 
 
-Players will choose a driver from each group, determined by their qualifying position. The best overall pick will receive a total of five (5) points. After the race, each driver within their respective group will be ranked against all other drivers in the same group. One (1) point will be deducted for each position lost according to the final position within that specific group. You cannot incur negative points.
+You have the chance to submit your picks for drivers, constructors, and bonus race questions.
 
-## Groups Format 
+The better your picks perform in the race, the more points you earn! 
+
+Your points are tracked for each race of the season. The player with the most points at the end of the season is the Formula Fantasy Champion!
+
+
+# Submitting Picks
+At the beginning of each race weekend, you will be notified to submit your picks.
+
+To submit picks, review the options for the driver, constructor, and race picks, and choose who you think will be the best performers. 
+
+The pick submission period ends at the time of race start. 
+
+After the race concludes, the results are calculated the round is complete.
+
+
+# Driver Picks
+Drivers in the race event are divided into 3 groups. Groups are determined by F1's Driver Championship ranking. Players pick one driver from each group.
+
 - Group A: P1 – P5
 - Group B: P6 – P10
 - Group C: P11 – P20
 
-## Example (Group A):
-| Driver          | Qualifying Position | Race Result | Group Points Results |
-|-----------------|---------------------|-------------|----------------------|
-| Charles Leclerc | P1                  | P7          | 3                    |
-| Sergio Perez    | P2                  | P2          | 4                    |
-| Max Verstappen  | P3                  | P1          | 5                    |
-| Carlos Sainz    | P4                  | P10         | 2                    |
-| Lewis Hamilton  | P5                  | P8          | 1                    |
+## Points
+Each driver pick receives points for how well they performed in the race.
 
-- If your choice was Charles Leclerc, who qualified in P1 but ultimately finished in P7, you would still accumulate a total of three (3) points. This is because each driver is evaluated solely within its group, based on the group's race results, Charles Leclerc finished in 3rd place for Group 1.
-- Selecting Max Verstappen, who qualified in P3 but finished in P1, would earn you a net total of five (5) points, given that he secured the top position in that group.
-- Drivers concluding the race in positions P16 to P20 will result in zero (0) points as you cannot incur negative points.
+- Finish Position Points: Drivers receive points equal to the points they earned in the F1 World Driver Championship (WDC) for that event. See WDC Points table below.
+- Position Change Points: Number of places gained/lost * 0.5 points. 0 Points if the driver does not finish the race.
+- Laps Completed Points: Number of laps completed * 0.1 points.
 
-## Driver Pick Points 
 
-Drivers selected from each group will earn points based on their performance and the final position of their group. The points will be automatically calculated using the following statistics.
+### WDC Points Breakdown
+| Finish Position | WDC Points |
+|-----------------|------------|
+| P1              | 25         |
+| P2              | 18         |
+| P3              | 15         |
+| P4              | 12         |
+| P5              | 10         |
+| P6              | 8          |
+| P7              | 6          |
+| P8              | 4          |
+| P9              | 2          |
+| P10             | 1          |
+| P11+            | 0          |
 
-- Group Ranking:
-    - 1st in Group: +5 Points
-    - 2nd in Group: +4 Points
-    - 3rd in Group: +3 Points
-    - 4th in Group: +2 Points
-    - 5th in Group: +1 Points
-    - DNF/DNS: +0 Points
-- Fastest Lap: +1 Point
-- Driver of the Day: +1 Point
-- Net Place Change: +/- 0.5 Points
-    - DNF/DNS: +0 Points
-- Laps Completed: +0.1 Points
 
-# 2) Constructor Pick Points
+# Constructor Picks
+Players pick one constructor team.
 
-Players will select a single team as their constructor pick for each race. The chosen team will be eligible for bonus points determined by its performance.
+## Points
+The constructor team recieves points for how well they perform in the race.
 
-- Fastest Pit Stop: +1 Point
-- Team Combined Net Place Change: +/- 0.5 Points
-    - DNF/DNS: +0 Points
-- Each Pit Stop Performance: 5 Points - Pit Stop Duration
-    - Example: 5 Points - 2.33 (Pit Stop Duration) = +2.67 Points 
+-Pit Stop Points: 5 points - Pit stop duration difference from fastest pit. Only the team's top 2 pits are counted. No negative points. See examples below.
 
-# 3) Race Picks
+### Example Pit Stop Points
+In the following example, the fastest pit during the race was 19.8s by Team X.
 
-For each race weekend, players will answer one (1) to three (3) bonus questions. For every correct answer, they have the chance to earn between one (1) and ten (10) points.
+- Team X recieves 7.4 total pit stop points
+- Team Y recieves 8.6 total pit stop points
+- Team Z recieves 2.3 total pit stop points
+
+| Constructor | Pit Stop Duration | Pit Stop Points |
+|-------------|-------------------|-----------------|
+| Team X      | 19.8s             | 5               |
+| Team X      | 23.4s             | 2.4             |
+| Team Y      | 20.1s             | 4.7             |
+| Team Y      | 20.9s             | 3.9             |
+| Team Y      | 21.2s             | 0 (Only top 2)  |
+| Team Y      | 22.8s             | 0 (Only top 2)  |
+| Team Z      | 23.5s             | 2.3             |
+| Team Z      | 26.6s             | 0               |
+| Team Z      | 30.1s             | 0               |
+
+
+# Race Picks
+Race picks vary for each round and are focused on news or  significant factors around the race weekend. Players pick from one to three bonus questions. 
+
+## Points
+Correct race pick answers earn 5 points unless otherwise noted in the question description.
