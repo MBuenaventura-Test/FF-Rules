@@ -28,9 +28,9 @@ Drivers in the race event are divided into 3 groups. Groups are determined by F1
 ## Points
 Each driver pick receives points for how well they performed in the race.
 
-- Finish Position Points: Drivers receive points equal to the points they earned in the F1 World Driver Championship (WDC) for that event. See WDC Points table below.
-- Position Change Points: Number of places gained/lost * 0.5 points. 0 Points if the driver does not finish the race.
-- Laps Completed Points: Number of laps completed * 0.1 points.
+- **Finish Position Points:** Drivers receive points equal to the points they earned in the F1 World Driver Championship (WDC) for that event. See WDC Points table below.
+- **Position Change Points:** Number of places gained/lost * 0.5 points. 0 Points if the driver does not finish the race.
+- **Laps Completed Points:** Number of laps completed * 0.1 points.
 
 
 ### WDC Points Breakdown
@@ -55,7 +55,8 @@ Players pick one constructor team.
 ## Points
 The constructor team receives points for how well they perform in the race.
 
--Pit Stop Points: 5 points - Pit stop duration difference from fastest pit. Only the team's top 2 pits are counted. No negative points. See examples below.
+- **Average Team Finishing Points:** The average WDC points the team's drivers earned that event.
+- **Pit Stop Points:** 5 points - Pit stop duration difference from fastest pit. Only the team's top 2 pits are counted. No negative points. See examples below.
 
 ### Example Pit Stop Points
 In the following example, the fastest pit during the race was 19.8s by Team X.
